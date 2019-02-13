@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Fascade:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fascade_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Fascade/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Fascade" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
