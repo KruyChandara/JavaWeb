@@ -1,7 +1,7 @@
 public class OSFactory {
 
     public static OS getInstance(String osName){
-
+        System.out.println("=======");
         switch (osName){
             case "ios":
                 return new IOS();
